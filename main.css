@@ -168,6 +168,11 @@ img {
     color:#D68910;
 }
 
+.title{
+    font-weight: bold;
+    color:#009999;
+}
+
 /* Footer styles */
 #footer {
 	clear:both;
