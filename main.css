@@ -159,6 +159,11 @@ img {
 	width:21%;			/* left column content width (column width minus left and right padding) */
 	left:6%;			/* (right column left and right padding) plus (left column left padding) */
 }
+
+.github {
+	color:#f40;
+}
+
 /* Footer styles */
 #footer {
 	clear:both;
